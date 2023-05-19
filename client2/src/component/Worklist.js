@@ -176,20 +176,3 @@ const img = "https://media.gettyimages.com/id/1304058743/vector/product-overview
 
 export default Worklist;
 
-// {allInputData && allInputData.map((el, i) => (
-//   <div>
-//     <tbody>
-//       <tr>
-//         <th scope="row">1</th>
-//         <td>Mark</td>
-//         <td>{el?.title}</td>
-//         <td>{el?.descricption}</td>
-//         <td>{el?.quantity}</td>
-//         <td>{el.price}</td>
-//         <button type="button" className="btn btn-outline-danger">
-//           Delete
-//         </button>
-//       </tr>
-//     </tbody>
-//   </div>
-// ))}
